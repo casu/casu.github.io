@@ -1,0 +1,6 @@
+AuthUserFile /homepages/ca/casu/images/lippe2005/.htpasswd
+AuthGroupFile /dev/null
+AuthName Intern
+AuthType Basic
+Auth_MySQL off
+require valid-user
