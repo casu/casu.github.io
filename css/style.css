@@ -1,0 +1,36 @@
+body   { color: #2F311E; font-family: Verdana, Arial, Helvetica; font-weight: normal;  font-style: normal; font-size: 14px;
+			  background-color: #6E7548; background-image: url(../images/general/back.jpg);
+			  background-repeat: repeat-x;
+			  Scrollbar-3DLight-Color: #B3B58C;
+			  Scrollbar-Arrow-Color: #6E7548;
+			  Scrollbar-Base-Color: #FFFFFF;
+			  Scrollbar-DarkShadow-Color: #B3B58C;
+			  Scrollbar-Face-Color: #B3B58C;
+			  Scrollbar-Highlight-Color: #6E7548;
+			  Scrollbar-Shadow-Color: #2F311E;
+			  Scrollbar-Track-Color: #6E7548;
+}
+td,th,p,a,i    { font-size: 14px;  line-height:16pt; }
+h1             { color: #2F311E; font-weight: bold;   font-size: 26px; text-align: center; line-height:26pt; margin: 12px; }
+h2             { color: #783830; font-weight: bold;   font-size: 22px; text-align: left; line-height:16pt; margin-bottom: 8px;}
+h3             { color: #2F311E; font-weight: normal; font-size: 18px; text-align: left; }
+h4             { color: #2F311E; font-weight: normal; font-size: 16px; }
+h5             { color: #2F311E; font-weight: normal; font-size: 14px; }
+h6             { color: #2F311E; font-weight: normal; font-size: 12px; }
+dt             { font-size: 18pt; }
+a              { color: #783830; text-decoration: underline; }
+table.all      { width: 940px; }
+td.top         { background-image: url(../images/general/top.jpg); background-repeat: no-repeat; width: 940px;  height: 190px; }
+a.top          { color: #2F311E; font-weight: bold; margin-left: 30px; }
+.topmenu       { margin-top: 190px; }
+.menu 	       {  }
+.menu1         { background-image: url(../images/general/menu1.jpg); height: 30px; padding-top: 3px; color: #33311E; text-align: center; font-weight: bold; }
+.menu2         { background-image: url(../images/general/menu2.jpg); padding-left: 20px; padding-right: 10px; padding-top: 5px;}
+.menu2 a       { text-decoration: none; font-weight: bold; }
+.menu2 a:hover { text-decoration: underline; }
+.menu2 ul      { margin-left: 2px; margin-bottom: 0px; padding-bottom: 0px; padding-left: 5px; list-style-image: url(../images/general/blume.gif); }
+.menu2 li      { margin-top: 5px; margin-bottom: 0px; margin-left: 3px; padding-left: 3px; vertical-align: top; }
+.menu3         { background-image: url(../images/general/menu3.jpg); height: 36px; }
+.content       { border: 2px solid #2F311E; background-color: #B3B58C; }
+.impressum     { text-align: right; margin-top: 4px; text-decoration: underline; }
+.url           { display: none; }

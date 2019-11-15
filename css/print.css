@@ -1,0 +1,18 @@
+body        { color: #47442A; font-family: Verdana, Arial, Helvetica; font-weight: normal;  font-style: normal; font-size: 14px; 
+}
+td,th,p,a,i { font-size: 12px;  line-height:16pt; }
+h1          { color: #47442A; font-weight: bold;   font-size: 24px; text-align: center; line-height:26pt; margin: 12px; }
+h2          { color: #665037; font-weight: bold;   font-size: 20px; text-align: left; line-height:16pt; margin-bottom: 8px;}
+h3          { color: #47442A; font-weight: normal; font-size: 16px; text-align: left; }
+h4          { color: #47442A; font-weight: normal; font-size: 14px; }
+h5          { color: #47442A; font-weight: normal; font-size: 12px; }
+h6          { color: #47442A; font-weight: normal; font-size: 10px;  }
+dt          { font-size: 18pt; }
+a 		    { color: #665037; text-decoration: underline }
+table.all	{  }
+td.top		{ background-image: url(../images/general/top_print.jpg); background-repeat: no-repeat; height: 99px;  }
+.topmenu	{ display: none; height: 0px; }
+.menu 		{ display: none; }
+.content	{  }
+.impressum 	{ display: none; }
+.url		{ font-size: 12px; text-align: right; }
