@@ -1,4 +1,4 @@
-body   { color: #2F311E; font-family: Verdana, Arial, Helvetica; font-weight: normal;  font-style: normal; font-size: 14px;
+body   { color: #2F311E; font-family: Roboto, Verdana, Arial, Helvetica; font-weight: normal;  font-style: normal; font-size: 14px;
 			  background-color: #6E7548; background-image: url(../images/general/back.jpg);
 			  background-repeat: repeat-x;
 			  Scrollbar-3DLight-Color: #B3B58C;
@@ -29,8 +29,16 @@ a.top          { color: #2F311E; font-weight: bold; margin-left: 30px; }
 .menu2 a       { text-decoration: none; font-weight: bold; }
 .menu2 a:hover { text-decoration: underline; }
 .menu2 ul      { margin-left: 2px; margin-bottom: 0px; padding-bottom: 0px; padding-left: 5px; list-style-image: url(../images/general/blume.gif); }
-.menu2 li      { margin-top: 5px; margin-bottom: 0px; margin-left: 3px; padding-left: 3px; vertical-align: top; }
+.menu2 li      { margin-top: 15px; margin-bottom: 0px; margin-left: 3px; padding-left: 3px; vertical-align: top; }
 .menu3         { background-image: url(../images/general/menu3.jpg); height: 36px; }
 .content       { border: 2px solid #2F311E; background-color: #B3B58C; }
 .impressum     { text-align: right; margin-top: 4px; text-decoration: underline; }
 .url           { display: none; }
+
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Roboto/Roboto-VariableFont_wdth,wght.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
