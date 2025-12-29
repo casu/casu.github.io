@@ -21,6 +21,8 @@ dt             { font-size: 18pt; }
 a              { color: #783830; text-decoration: underline; }
 table.all      { width: 940px; }
 td.top         { background-image: url(../images/general/top.jpg); background-repeat: no-repeat; width: 940px;  height: 190px; }
+td.topleft     { background-image: url(../images/general/top_left.jpg); background-repeat: repeat; width: 1px;  height: 190px; }
+td.topright    { background-image: url(../images/general/top_right.jpg); background-repeat: repeat; width: 1px;  height: 190px; }
 a.top          { color: #2F311E; font-weight: bold; margin-left: 30px; }
 .topmenu       { margin-top: 190px; }
 .menu 	       {  }
